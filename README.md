@@ -1,2 +1,4 @@
-# IR-Assignment-6
-Here is the solution of Assignment-6 given in Robotics subject ,using python .
+<h4 align="center">Introduction to Robotics - 3 Link Manipulator</h1>
+
+
+
